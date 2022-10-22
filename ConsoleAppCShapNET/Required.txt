@@ -1,0 +1,9 @@
+﻿lập trình hướng đối tượng thỏa mãn yêu cầu:
+Một công ty quản lý nhân viên (mã nhân viên, tên nhân viên, ngày sinh, địa chỉ, ngày công,
+hệ số lương). Yêu cầu:
+- Cho phép thêm mới 1 nhân viên
+- Cho phép sắp xếp tăng dần theo lương và hiển thị tất cả ra màn hình
+- Cho phép tìm kiếm một nhân viên theo id nào đó? và hiển thị ra ngoài màn hình
+- Cho phép thay đổi thông tin một nhân viên bất kỳ
+- Hiển thị tổng lương của all nhân viên ra màn hình.
+
