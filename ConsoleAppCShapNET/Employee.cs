@@ -19,7 +19,8 @@ public class Employee
     public int WorkHourly { get; set; }
     public float WorkRate { get; set; }
 
-    public static Employee[] Employees { get; }
+    public static Employee[] Employees { get; private set; }
+    private int _size = default(int);//0
 
 
     
@@ -30,6 +31,7 @@ public class Employee
     static Employee()
     {
         Employees = new Employee[2];
+        
 
         Employee e = new Employee();
         e.Id = NextId;
@@ -40,11 +42,21 @@ public class Employee
         e.WorkRate = 300000;
         
         Employees[0] = e;
-        Employees[1] = new Employee(NextId, "Long Nguy", new DateOnly(1987, 01, 05), "Quan 3, TPHCM", 25, 400000);
+        //Object inialize
+        Employees[1] = new Employee{ 
+            Id = ++NextId,
+            Name="Long Nguy", 
+            Dob=new DateOnly(1987, 01, 05), 
+            Address="Quan 3, TPHCM",
+            WorkHourly=25,
+            WorkRate = 400000
+        };
 
     }
     public Employee()
     {
+        this._size = Employees.Length;
+
     }
     public Employee(int? id = null)
     {
@@ -67,6 +79,46 @@ public class Employee
     private string _display() => $"Id: {Id}, Name: {_name}, Address: {Address}, WorkHourly: {WorkHourly}, WorkRate:{WorkRate}";
     public double GetSalary() => _calculatorSalary();
     private double _calculatorSalary() => WorkRate* WorkHourly;
+
+    public void Save()
+    {
+        //1. Check emp ton tai chua
+        var index = CheckEmployee();
+        if (index != -1)
+        {
+            Employees[index] = this;
+        }
+        else
+        {
+            //2. noi mang 1 chieu Employees ra
+            if(this._size >= Employees.Length)
+            {
+                Employee[] temp = new Employee[_size*2];
+                //di chuyen du lieu mang cu => temp
+                Array.Copy(Employees, 0, temp, 0, _size);
+                Employees = temp;
+            }
+            Employees[_size++] = this;
+            
+
+        }
+        
+    }
+    private int CheckEmployee()
+    {
+        if(Employees.Length != 0)
+        {
+            for(int i=0; i < Employees.Length; i++)
+            {
+                if(Employees[i] != null && Employees[i].Id == Id)
+                {
+                   return i;
+                }
+               
+            } 
+        }
+        return -1;
+    }
 
     public override string? ToString() => this._display();
 }

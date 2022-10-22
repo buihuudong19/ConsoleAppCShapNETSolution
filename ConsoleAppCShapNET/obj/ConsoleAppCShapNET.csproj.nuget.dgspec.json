@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapBasicToAdvanced\\ConsoleAppCShapNETSolution\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {}
+    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\temp\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {}
   },
   "projects": {
-    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapBasicToAdvanced\\ConsoleAppCShapNETSolution\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {
+    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\temp\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapBasicToAdvanced\\ConsoleAppCShapNETSolution\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
+        "projectUniqueName": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\temp\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
         "projectName": "ConsoleAppCShapNET",
-        "projectPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapBasicToAdvanced\\ConsoleAppCShapNETSolution\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
+        "projectPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\temp\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
         "packagesPath": "C:\\Users\\dongbh\\.nuget\\packages\\",
-        "outputPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapBasicToAdvanced\\ConsoleAppCShapNETSolution\\ConsoleAppCShapNET\\obj\\",
+        "outputPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\temp\\ConsoleAppCShapNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dongbh\\AppData\\Roaming\\NuGet\\NuGet.Config",

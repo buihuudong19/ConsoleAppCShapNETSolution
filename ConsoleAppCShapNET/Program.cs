@@ -4,28 +4,89 @@ public class Program
 {
     public static void Main()
     {
-        //create a object Employee
-        Employee e = new Employee();//e: object/instance
-        e.Id = 1;
-        e.Name = "Bui Huu Dong";
-        e.Address = "Quan 10, TPHCM";
-        e.Dob = new DateOnly(2022, 10, 20);
-        e.WorkHourly = 150;
-        e.WorkRate = 250_000;
-
-        Employee e2 = new Employee(2, "Tri", new DateOnly(1983, 01, 15), "Quan 1", 230, 180_000);
-        e2.Name = "Nguy Long";
-
-        Employee e3 = new Employee(null);
-        int? a = null;
-       
-        if(a == null)
+        //Khoi tao menu
+        var run = true;
+        do
         {
-            a = 0;
-        }
-        a= a ?? default;
-        Console.WriteLine(a);
-        Console.WriteLine(e2);
+            Console.Clear();
+            //string interpolation 
+            Console.WriteLine($"Choises:");
+            Console.WriteLine($"1. Fetch and display the employee with id = 1");
+            Console.WriteLine($"2. Add new employee");
+            Console.WriteLine($"3. Show all employees");
+            Console.WriteLine($"4. Exit");
+            var input = Console.ReadLine();
+            Console.Clear();
+            try
+            {
+                switch (input)
+                {
+                    case "1":
+                        break;
+                    case "2":
+                        CreateEmployee();
+                        break;
+                    case "3":
+                        ListAllEmployee();
+                        break;
+                    case "4":
+                        run = false;
+                        break;
+                    default:
+                        Console.WriteLine($"Invalid optin when you chooose...");
+                        break;
+                }
+
+            }catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            Console.WriteLine($"==============================");
+            Console.WriteLine($"Press the enter to go back to the main menu");
+            Console.ReadLine();
+        }while (run);
+
+        
+        
+
+   
+        
         Console.ReadLine();
+    }
+
+    private static void CreateEmployee()
+    {
+        Console.Clear();
+        Console.Write($"Please enter the Name:");
+        var name = Console.ReadLine();
+        Console.WriteLine();
+        Console.Write($"Please enter the Address:");
+        var address = Console.ReadLine();
+        Console.WriteLine();
+        
+        Console.Write($"Please enter the Work Hourly:");
+        var workHourly = Console.ReadLine();
+        Console.WriteLine();
+        Console.Write($"Please enter the Work Rate:");
+        var workRate = Console.ReadLine();
+        Console.WriteLine();
+        var employee = new Employee
+        {
+            Id = ++Employee.NextId,
+            Name = name,
+            Address = address,
+            Dob = new DateOnly(2022, 10, 10),
+            WorkHourly = int.Parse(workHourly),//"1" =>1
+            WorkRate = float.Parse(workRate)
+        };
+        employee.Save();
+    }
+
+    private static void ListAllEmployee()
+    {
+        foreach(Employee e in Employee.Employees)
+        {
+            Console.WriteLine(e);
+        }
     }
 }
