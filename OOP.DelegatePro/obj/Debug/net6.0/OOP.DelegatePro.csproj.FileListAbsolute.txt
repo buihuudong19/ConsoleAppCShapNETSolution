@@ -1,0 +1,15 @@
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\bin\Debug\net6.0\OOP.DelegatePro.exe
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\bin\Debug\net6.0\OOP.DelegatePro.deps.json
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\bin\Debug\net6.0\OOP.DelegatePro.runtimeconfig.json
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\bin\Debug\net6.0\OOP.DelegatePro.dll
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\bin\Debug\net6.0\OOP.DelegatePro.pdb
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.csproj.AssemblyReference.cache
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.AssemblyInfoInputs.cache
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.AssemblyInfo.cs
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.csproj.CoreCompileInputs.cache
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.dll
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\refint\OOP.DelegatePro.dll
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.pdb
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\OOP.DelegatePro.genruntimeconfig.cache
+D:\TRAINING_ONLINE\2_ASP_NET\ASP_NET6_VNAIRLINE_102022\CShapAdvanced\OOP.DelegatePro\obj\Debug\net6.0\ref\OOP.DelegatePro.dll

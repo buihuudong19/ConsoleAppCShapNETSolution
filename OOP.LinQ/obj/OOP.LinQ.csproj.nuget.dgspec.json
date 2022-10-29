@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\OOP.LinQ\\OOP.LinQ.csproj": {}
+  },
+  "projects": {
+    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\OOP.LinQ\\OOP.LinQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\OOP.LinQ\\OOP.LinQ.csproj",
+        "projectName": "OOP.LinQ",
+        "projectPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\OOP.LinQ\\OOP.LinQ.csproj",
+        "packagesPath": "C:\\Users\\dongbh\\.nuget\\packages\\",
+        "outputPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\OOP.LinQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dongbh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
