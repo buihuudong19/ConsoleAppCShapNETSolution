@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {}
+    "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {}
   },
   "projects": {
-    "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {
+    "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
+        "projectUniqueName": "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
         "projectName": "ConsoleAppCShapNET",
-        "projectPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
-        "packagesPath": "C:\\Users\\dongbh\\.nuget\\packages\\",
-        "outputPath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\obj\\",
+        "projectPath": "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
+        "packagesPath": "C:\\Users\\Dongbh\\.nuget\\packages\\",
+        "outputPath": "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dongbh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dongbh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

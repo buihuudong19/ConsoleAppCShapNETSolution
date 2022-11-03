@@ -1,0 +1,15 @@
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\bin\Debug\net6.0\SOLID.OOP.OCP.exe
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\bin\Debug\net6.0\SOLID.OOP.OCP.deps.json
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\bin\Debug\net6.0\SOLID.OOP.OCP.runtimeconfig.json
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\bin\Debug\net6.0\SOLID.OOP.OCP.dll
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\bin\Debug\net6.0\SOLID.OOP.OCP.pdb
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.csproj.AssemblyReference.cache
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.AssemblyInfoInputs.cache
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.AssemblyInfo.cs
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.csproj.CoreCompileInputs.cache
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.dll
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\refint\SOLID.OOP.OCP.dll
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.pdb
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\SOLID.OOP.OCP.genruntimeconfig.cache
+D:\5_SOLID_EDU_VN\100_TRAINING\3_ASPNET\CShapBasicToAdvanced\SOLID.OOP.OCP\obj\Debug\net6.0\ref\SOLID.OOP.OCP.dll

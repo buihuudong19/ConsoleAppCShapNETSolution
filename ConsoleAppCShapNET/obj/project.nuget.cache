@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "09em9cNfFHaPSpuyeDsDbGtEVmyJcHSnrYxB7hG61jUdV71hGG0EL9rURiwbrJuh+vgL/01M6WsM19UyYVASKA==",
+  "dgSpecHash": "UvG6/ooApuTVx1Vh/IGMMAYf1Oqnyqh5q3hHX7RwxqtF8Jl95yklUp0rSrHWnUxjjU5J1wcgk39t7JrgfJwzkg==",
   "success": true,
-  "projectFilePath": "D:\\TRAINING_ONLINE\\2_ASP_NET\\ASP_NET6_VNAIRLINE_102022\\CShapAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
+  "projectFilePath": "D:\\5_SOLID_EDU_VN\\100_TRAINING\\3_ASPNET\\CShapBasicToAdvanced\\ConsoleAppCShapNET\\ConsoleAppCShapNET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
